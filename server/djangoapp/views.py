@@ -45,7 +45,7 @@ def login_user(request):
 # Create a `registration` view to handle sign up request
 # @csrf_exempt
 # def registration(request):
-# ...
+
 
 # # Update the `get_dealerships` view to render the index page with
 # a list of dealerships
